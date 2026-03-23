@@ -1,0 +1,33 @@
+# Python кэш
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Скомпилированные файлы
+*.so
+
+# Виртуальное окружение
+venv/
+.env/
+.venv/
+
+# PyCharm
+.idea/
+*.iml
+
+# Логи
+*.log
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Модели
+*.h5
+*.keras
+
+# Датасеты
+DatasetCards/
+
+# Изображения (если не нужны в репозитории)
+images/
